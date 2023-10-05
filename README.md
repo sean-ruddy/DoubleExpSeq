@@ -1,1 +1,1 @@
-# DEUFuns
+# DoubleExpSeq
